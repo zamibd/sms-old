@@ -1,0 +1,2 @@
+linode_token = "8c3e32f70d845282a9846264e397538dc6c0721c06fe0c94f32b9cc2ca138223"
+root_pass    = "Rahmatbd@11221099"

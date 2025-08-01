@@ -1,0 +1,52 @@
+# Dependency directories
+/vendor/
+node_modules/
+
+# Version control
+.git/
+.gitignore
+
+# Environment and secrets
+
+.env.*
+*.key
+*.pem
+*.crt
+
+# Logs and temp files
+storage/logs/
+storage/framework/cache/*
+storage/framework/sessions/*
+storage/framework/views/*
+*.log
+*.swp
+*.tmp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE/editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Composer artifacts
+composer.lock
+composer.phar
+
+# NPM/Yarn artifacts
+package-lock.json
+yarn.lock
+
+# PHPUnit cache
+.phpunit.result.cache
+
+# Docker artifacts
+
+.dockerignore
+
+# Misc
+tests/
+coverage/
