@@ -81,7 +81,7 @@ docker run -d \
 
 ```bash
 docker run -d \
-  --name imzami_nginx \
+  --name nginx \
   --restart always \
   -p 80:80 \
   -p 443:443 \
